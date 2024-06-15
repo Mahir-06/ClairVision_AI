@@ -1,0 +1,10 @@
+pillow
+SimpleITK
+imagecodecs
+numpy
+pandas
+h5py
+scikit-learn
+opencv-python
+matplotlib
+torch
